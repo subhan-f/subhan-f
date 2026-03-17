@@ -154,11 +154,11 @@ Welcome to my GitHub! I'm a **Computer Engineering graduate** and **AI Automatio
 
 <div align="center">
 
-![Subhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhanfarrakh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Subhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhan-f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanfarrakh&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-f&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhanfarrakh&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhan-f&theme=tokyonight&hide_border=true)
 
 </div>
 
