@@ -171,7 +171,7 @@ I'm always open to discussing new opportunities, collaborations, or just tech in
 - 📧 **Email:** [subhanfarrakh5@gmail.com](mailto:subhanfarrakh5@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/subhanf](https://linkedin.com/in/subhanf)
 - 🛒 **Fiverr:** [fiverr.com/subhan_codes](https://fiverr.com/subhan_codes)
-- 🌐 **Portfolio:** *Coming soon*
+- 🌐 **Portfolio:** [subhans-portfolio.vercel.app](https://subhans-portfolio.vercel.app/)
 
 ---
 
