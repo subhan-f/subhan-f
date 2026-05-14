@@ -1,4 +1,4 @@
-# Subhan Farrakh
+# Muhammad Subhan Farrakh
 
 **AI Automation Specialist | Full-Stack Developer | BS Computer Engineering**
 
@@ -22,47 +22,91 @@ Automation engineer and full-stack developer with **1.5+ years** of professional
 ## � Professional Experience
 
 ### **Freelance AI Automation & Full-Stack Developer** | Fiverr (Level 2 Seller)
-*Feb 2024 – Present | 10+ clients | Avg. 5★ rating*
 
-**KidsKulturSpass** (Germany) | Web Development & Automation  
-- Built end-to-end MERN dashboards and automated email workflows  
-- Integrated HubSpot CRM, Google Calendar, Google Cloud, and Ionos Email  
+_Feb 2024 – Present | 10+ clients | Avg. 5★ rating_
+
+**KidsKulturSpass** (Germany) | Web Development & Automation
+
+- Built end-to-end MERN dashboards and automated email workflows
+- Integrated HubSpot CRM, Google Calendar, Google Cloud, and Ionos Email
 - Eliminated manual processes through intelligent data synchronization
 
-**AllState Mapping** (USA) | Real-Estate Data Automation  
-- Developed automation pipelines connecting Zillow, Monday.com, and HubSpot CRM  
-- Processed property data ingestion for NY market with zero manual intervention  
+**AllState Mapping** (USA) | Real-Estate Data Automation
+
+- Developed automation pipelines connecting Zillow, Monday.com, and HubSpot CRM
+- Processed property data ingestion for NY market with zero manual intervention
 - Enabled data flow between 4+ platforms with error handling and logging
 
-**Odd Jobs On Demand** (USA) | Work Order Management  
-- Designed real-time dashboards for job tracking and performance metrics  
-- Implemented voice AI agent reducing manual calls by 60%  
+**Odd Jobs On Demand** (USA) | Work Order Management
+
+- Designed real-time dashboards for job tracking and performance metrics
+- Implemented voice AI agent reducing manual calls by 60%
 - Automated status management and operational workflows
 
 ---
 
 ## 🎯 Featured Projects
 
-| Project | Description | Stack | Repository |
-|---------|-------------|-------|-----------|
-| **Jorh** | Production-grade URL shortener with 5 Node.js microservices, RabbitMQ messaging, and React dashboard | TypeScript, Node.js, Docker, RabbitMQ, Turborepo | [View →](https://github.com/subhan-f/Jorh) |
-| **SubhansPortfolio** | Modern personal portfolio with interactive UI and smooth animations | TypeScript, React, Vite, Tailwind CSS | [View →](https://github.com/subhan-f/SubhansPortfolio) |
-| **Video Motion Magnification** | Eulerian video magnification and equipment failure prediction using CNN | Python, OpenCV, TensorFlow, NumPy | [View →](https://github.com/subhan-f/FYP-RT-VidMag-Eulerian-Method) |
-| **Multiple Diseases Prediction** | Machine learning model for healthcare diagnosis | Python, Scikit-learn, Pandas | [View →](https://github.com/subhan-f/multiple-diseases-prediction) |
+| Project                          | Description                                                                                          | Stack                                            | Repository                                                          |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------- |
+| **Jorh**                         | Production-grade URL shortener with 5 Node.js microservices, RabbitMQ messaging, and React dashboard | TypeScript, Node.js, Docker, RabbitMQ, Turborepo | [View →](https://github.com/subhan-f/Jorh)                          |
+| **SubhansPortfolio**             | Modern personal portfolio with interactive UI and smooth animations                                  | TypeScript, React, Vite, Tailwind CSS            | [View →](https://github.com/subhan-f/SubhansPortfolio)              |
+| **Video Motion Magnification**   | Eulerian video magnification and equipment failure prediction using CNN                              | Python, OpenCV, TensorFlow, NumPy                | [View →](https://github.com/subhan-f/FYP-RT-VidMag-Eulerian-Method) |
+| **Multiple Diseases Prediction** | Machine learning model for healthcare diagnosis                                                      | Python, Scikit-learn, Pandas                     | [View →](https://github.com/subhan-f/multiple-diseases-prediction)  |
 
 ---
 
 ## 🛠️ Technology Stack
 
-**Languages:** Python • JavaScript • TypeScript • Node.js  
-**Frontend:** React • Vite • Tailwind CSS • Bootstrap • HTML5 & CSS3  
-**Backend:** Node.js • Express.js • GraphQL  
-**Databases:** MongoDB • PostgreSQL  
-**Cloud & DevOps:** Google Cloud Platform • Docker • Cloudflare • GitHub Actions  
-**Automation:** n8n • Make.com • Zapier • Pabbly • Google Apps Script  
-**APIs & Integrations:** REST APIs • GraphQL • Webhooks • HubSpot • Monday.com • Airtable  
-**AI/ML:** OpenAI API • TensorFlow • Keras • OpenCV • Scikit-learn  
-**Tools:** Git • GitHub • Docker • Postman • Figma  
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Databases
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Cloud & DevOps
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### AI/ML & Automation
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Integration & Automation Tools
+
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-09B3AF?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EB424B?style=for-the-badge&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -70,9 +114,7 @@ Automation engineer and full-stack developer with **1.5+ years** of professional
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhan-f&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/subhan-f)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-f&layout=compact&theme=dark&hide_border=true)](https://github.com/subhan-f)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=subhan-f&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 </div>
 
