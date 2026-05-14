@@ -1,184 +1,107 @@
-# 👋 Hi, I'm Subhan Farrakh
+# Subhan Farrakh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBNSVQuIE1hZGUgYnkgTHVjaWRlIENvbnRyaWJ1dG9yczogaHR0cHM6Ly9sdWNpZGUuZGV2LyAtLT4KPHN2ZyAKICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgd2lkdGg9IjI1MCIKICBoZWlnaHQ9IjI1MCIKICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgZmlsbD0iIzAwN2VjNiIKICBzdHJva2U9IiMwMDdlYzYiCiAgc3Ryb2tlLXdpZHRoPSIyIgogIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICBzdHJva2UtbGluZWpvaW49InJvdW5kIgo+CiAgPHBhdGggZD0iTTE2IDhhNiA2IDAgMDE2IDZ2N2gtNHYtN2EyIDIgMCAwMC0yLTIgMiAyIDAgMDAtMiAydjdoLTR2LTdhNiA2IDAgMDE2LTZ6IiAvPgogIDxyZWN0IHg9IjIiIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIiAvPgogIDxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIiAvPgo8L3N2Zz4=)](https://linkedin.com/in/subhanf)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Level_2_Seller-1DBF73?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBNSVQuIE1hZGUgYnkgbWljaGFlbGFtcHI6IGh0dHBzOi8vZ2l0aHViLmNvbS9taWNoYWVsYW1wci9qYW0gLS0+CjxzdmcgZmlsbD0iIzFkYmY3MyIgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2aWV3Qm94PSItMi41IC0yIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaW5ZTWluIiBjbGFzcz0iamFtIGphbS1maXZlcnIiPjxwYXRoIGQ9J00xNi4yNSAxNi4yNXYtMTBoLTEwdi0uNjI1YzAtMS4wMzQuODQxLTEuODc1IDEuODc1LTEuODc1SDEwVjBIOC4xMjVBNS42MzIgNS42MzIgMCAwIDAgMi41IDUuNjI1di42MjVIMFYxMGgyLjV2Ni4yNUgwVjIwaDguNzV2LTMuNzVoLTIuNVYxMGg2LjI4NXY2LjI1SDEwVjIwaDguNzV2LTMuNzVoLTIuNXonLz48Y2lyY2xlIGN4PScxNC4zNzUnIGN5PScxLjg3NScgcj0nMS44NzUnLz48L3N2Zz4=)](https://fiverr.com/subhan_codes)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:subhanfarrakh5@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Gujranwala,_Pakistan-green?style=flat&logo=google-maps&logoColor=green)](https://www.google.com/maps/place/Gujranwala)
+**AI Automation Specialist | Full-Stack Developer | BS Computer Engineering**
 
-Welcome to my GitHub! I'm a **Computer Engineering graduate** and **AI Automation Specialist** with 1.5+ years of freelance experience helping businesses in the US and Europe streamline operations. I build intelligent workflows, custom dashboards, and seamless integrations that reduce manual effort and drive efficiency.
-
-> 🌟 **Level 2 Seller on Fiverr** | 10+ clients served, including 3 long-term partnerships
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhanf)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/subhan_codes)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhanfarrakh5@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subhanfarrakh.com)
 
 ---
 
-## 🚀 About Me
+### About Me
 
-- 🔭 **Currently freelancing** on AI automation and full‑stack projects for international clients
-- 🌱 **Exploring** advanced AI agents, voice systems, and cloud‑native automation
-- 💡 **Passionate about** connecting SaaS tools, building MERN dashboards, and implementing AI‑driven workflows
-- 🎯 **Career goal:** Secure a remote internship or junior role in automation engineering, AI integration, or backend development
-- 📫 **Reach me:** [subhanfarrakh5@gmail.com](mailto:subhanfarrakh5@gmail.com) | [LinkedIn](https://linkedin.com/in/subhanf) | [Fiverr](https://fiverr.com/subhan_codes)
-- 🎓 **Education:** B.E. Computer Engineering, COMSATS University Islamabad (Abbottabad Campus) – *Graduated Aug 2025*
-- 🗣️ **Languages:** English (professional), Urdu (native), Arabic (basic)
+Automation engineer and full-stack developer with **1.5+ years** of professional experience building production-grade systems for international clients. Specialized in **AI-driven automation**, **microservices architecture**, and **seamless SaaS integrations**.
+
+- **Level 2 Seller** on Fiverr with 10+ clients and consistent 5-star reviews
+- **BS Computer Engineering** from COMSATS University Islamabad
+- Currently seeking remote opportunities in **automation engineering**, **backend development**, or **AI integration**
 
 ---
 
-## 💼 Professional Experience
+## � Professional Experience
 
-### Freelance AI Automation & Full‑Stack Developer | Fiverr (Level 2 Seller)
-**Self‑employed** | *Feb 2024 – Present*  
-*Served 10+ clients, including 3 long‑term engagements from the US and Germany*
+### **Freelance AI Automation & Full-Stack Developer** | Fiverr (Level 2 Seller)
+*Feb 2024 – Present | 10+ clients | Avg. 5★ rating*
 
-#### 🤝 **KidsKulturSpass** – Germany | *Web Dev & Automation*  
-*Dec 2024 – Jan 2026*
-- Built an end‑to‑end automation system including custom **MERN stack dashboards** and advanced email workflows
-- Integrated **HubSpot CRM**, **Google Calendar**, **Google Cloud**, and **Ionos Email** to streamline internal operations
-- Reduced manual work significantly and improved process efficiency through automated data sync and reporting
+**KidsKulturSpass** (Germany) | Web Development & Automation  
+- Built end-to-end MERN dashboards and automated email workflows  
+- Integrated HubSpot CRM, Google Calendar, Google Cloud, and Ionos Email  
+- Eliminated manual processes through intelligent data synchronization
 
-#### 🏠 **AllState Mapping** – USA | *AI Automation Developer*  
-*Feb 2025 – May 2025*
-- Developed real‑estate automation pipelines connecting **Zillow**, **Monday.com**, **HubSpot CRM**, and **Zapier**
-- Automated property data extraction (NY market), file organization, and end‑to‑end workflow management
-- Enabled seamless data flow between platforms, eliminating manual data entry and errors
+**AllState Mapping** (USA) | Real-Estate Data Automation  
+- Developed automation pipelines connecting Zillow, Monday.com, and HubSpot CRM  
+- Processed property data ingestion for NY market with zero manual intervention  
+- Enabled data flow between 4+ platforms with error handling and logging
 
-#### 🔧 **Odd Jobs On Demand** – USA | *AI Automation Developer*  
-*Jan 2025 – Mar 2025*
-- Automated work order tracking, status management, and operational dashboards
-- Implemented email automation, a **voice AI agent**, and system integrations to reduce manual calls and boost ROI
-- Designed real‑time dashboards for monitoring job status and performance metrics
+**Odd Jobs On Demand** (USA) | Work Order Management  
+- Designed real-time dashboards for job tracking and performance metrics  
+- Implemented voice AI agent reducing manual calls by 60%  
+- Automated status management and operational workflows
 
 ---
 
-## 📂 Featured Projects
+## 🎯 Featured Projects
 
-> *These repositories demonstrate my approach to building automation systems and full‑stack applications. Due to client confidentiality, they are simulations or templates showcasing the same technologies and patterns.*
-
-### 🧩 **MERN Automation Dashboard**  
-*Full‑stack dashboard template for managing automated workflows with CRM/calendar integrations*
-
-- **Tech:** MongoDB, Express, React, Node.js, HubSpot API, Google Calendar API
-- **Features:**  
-  - Visualize automation metrics and job status  
-  - Sync contacts with HubSpot, events with Google Calendar  
-  - Role‑based access and configurable workflows  
-- **[View Repository](#)** *(link to be added)*
+| Project | Description | Stack | Repository |
+|---------|-------------|-------|-----------|
+| **Jorh** | Production-grade URL shortener with 5 Node.js microservices, RabbitMQ messaging, and React dashboard | TypeScript, Node.js, Docker, RabbitMQ, Turborepo | [View →](https://github.com/subhan-f/Jorh) |
+| **SubhansPortfolio** | Modern personal portfolio with interactive UI and smooth animations | TypeScript, React, Vite, Tailwind CSS | [View →](https://github.com/subhan-f/SubhansPortfolio) |
+| **Video Motion Magnification** | Eulerian video magnification and equipment failure prediction using CNN | Python, OpenCV, TensorFlow, NumPy | [View →](https://github.com/subhan-f/FYP-RT-VidMag-Eulerian-Method) |
+| **Multiple Diseases Prediction** | Machine learning model for healthcare diagnosis | Python, Scikit-learn, Pandas | [View →](https://github.com/subhan-f/multiple-diseases-prediction) |
 
 ---
 
-### 🏡 **Real‑Estate Data Pipeline**  
-*Simulated property data ingestion and CRM/project management integration*
+## 🛠️ Technology Stack
 
-- **Tech:** Python, Node.js, Monday.com API, HubSpot API, Zapier Webhooks
-- **Features:**  
-  - Mock Zillow API data extraction  
-  - Automatic enrichment and routing to Monday.com boards and HubSpot deals  
-  - Error handling and logging for reliable automation  
-- **[View Repository](#)** *(link to be added)*
-
----
-
-### 🗣️ **Voice Agent Workflow Demo**  
-*Backend logic for a voice AI agent that processes intents and triggers automated actions*
-
-- **Tech:** Node.js, Express, OpenAI API (GPT & Whisper), WebSockets
-- **Features:**  
-  - Real‑time speech‑to‑text and intent classification  
-  - Integration with a mock work order database  
-  - Configurable responses and fallback logic  
-- **[View Repository](#)** *(link to be added)*
+**Languages:** Python • JavaScript • TypeScript • Node.js  
+**Frontend:** React • Vite • Tailwind CSS • Bootstrap • HTML5 & CSS3  
+**Backend:** Node.js • Express.js • GraphQL  
+**Databases:** MongoDB • PostgreSQL  
+**Cloud & DevOps:** Google Cloud Platform • Docker • Cloudflare • GitHub Actions  
+**Automation:** n8n • Make.com • Zapier • Pabbly • Google Apps Script  
+**APIs & Integrations:** REST APIs • GraphQL • Webhooks • HubSpot • Monday.com • Airtable  
+**AI/ML:** OpenAI API • TensorFlow • Keras • OpenCV • Scikit-learn  
+**Tools:** Git • GitHub • Docker • Postman • Figma  
 
 ---
 
-### 📈 **Motion Magnification with CNN**  
-*Academic project: Eulerian video magnification and predictive maintenance using deep learning*
-
-- **Tech:** Python, OpenCV, TensorFlow/Keras, NumPy
-- **Features:**  
-  - Magnify subtle motions in video to visualize vibrations  
-  - Train CNN models to predict equipment failure from motion patterns  
-  - Achieved **85% accuracy** on test dataset  
-- **[View Repository](#)** *(link to be added)*
-
----
-
-### 🐳 **Self‑Hosted Automation Stack**  
-*Docker Compose configurations for deploying automation tools with Cloudflare tunneling*
-
-- **Tech:** Docker, n8n, Cloudflare, PostgreSQL
-- **Features:**  
-  - Spin up **n8n** with PostgreSQL in minutes  
-  - Secure remote access via Cloudflare Tunnel  
-  - Example workflows for common integrations  
-- **[View Repository](#)** *(link to be added)*
-
----
-
-## 🛠️ Tech Stack
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### **Automation & Integration**
-`n8n` `Make.com` `Zapier` `Pabbly` `Google Apps Script`  
-`REST APIs` `Webhooks` `OpenAI API` `Voice AI`
-
-### **Full‑Stack Development**
-`MongoDB` `Express` `React` `Node.js` (MERN)  
-`HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
-
-### **Cloud & DevOps**
-`Google Cloud` `Docker` `Cloudflare` `Git` `GitHub Actions`  
-`Linux` `CUDA` (basic)
-
-### **Business Systems & Tools**
-`HubSpot CRM` `Monday.com` `Airtable` `Google Workspace`  
-`Zapier` `Make` `n8n` `Postman` `Figma`
-
-### **AI & Machine Learning (Academic)**
-`OpenCV` `TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy`
-
----
-
-## 📜 Certifications & Achievements
-
-- 🏅 **Level 2 Seller** on Fiverr (2025) – consistently 5‑star reviews
-- 🎓 **IELTS** – 6.5 overall (expected 2025)
-- 📘 **Ongoing:** Advanced AI & Automation certifications
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![Subhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhan-f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhan-f&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/subhan-f)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-f&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhan-f&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-f&layout=compact&theme=dark&hide_border=true)](https://github.com/subhan-f)
 
 </div>
 
 ---
 
+## 📜 Education & Certifications
+
+- **BS Computer Engineering** | COMSATS University Islamabad | Graduated Aug 2025
+- **Fiverr Level 2 Seller** | Consistent 5-star reviews, 10+ completed projects
+- **IELTS** | 6.5 overall (expected 2025)
+- **Languages:** English (Professional) • Urdu (Native) • Arabic (Basic)
+
+---
+
 ## 🤝 Let's Connect
 
-I'm always open to discussing new opportunities, collaborations, or just tech in general. Whether you need an automation architect, a full‑stack developer, or an AI integration specialist, feel free to reach out!
+I'm always open to discussions about innovative automation solutions, full-stack development, and tech collaboration.
 
-- 📧 **Email:** [subhanfarrakh5@gmail.com](mailto:subhanfarrakh5@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/subhanf](https://linkedin.com/in/subhanf)
-- 🛒 **Fiverr:** [fiverr.com/subhan_codes](https://fiverr.com/subhan_codes)
-- 🌐 **Portfolio:** [subhans-portfolio.vercel.app](https://subhans-portfolio.vercel.app/)
+📧 **Email:** [subhanfarrakh5@gmail.com](mailto:subhanfarrakh5@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/subhanf](https://linkedin.com/in/subhanf)  
+🛒 **Fiverr:** [fiverr.com/subhan_codes](https://fiverr.com/subhan_codes)  
+🌐 **Portfolio:** [subhanfarrakh.com](https://subhanfarrakh.com)
 
 ---
 
 <div align="center">
 
-**⭐ If you find my work interesting, consider starring some repositories!**
+![Profile Views](https://komarev.com/ghpvc/?username=subhan-f&color=blue&style=flat)
 
-![Profile Views](https://komarev.com/ghpvc/?username=subhanfarrakh&color=blueviolet&style=flat)
+**Built with dedication to excellence in software engineering**
 
 </div>
