@@ -110,16 +110,6 @@ _Feb 2024 – Present | 10+ clients | Avg. 5★ rating_
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=subhan-f&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-</div>
-
----
-
 ## 📜 Education & Certifications
 
 - **BS Computer Engineering** | COMSATS University Islamabad | Graduated Aug 2025
