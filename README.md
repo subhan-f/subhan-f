@@ -83,3 +83,7 @@ I'm always open to discussions about innovative automation solutions, full-stack
 **Built with ❤️ for excellence in engineering**
 
 </div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1cd8d2,45:00bf8f,100:302b63" />
+</div>
