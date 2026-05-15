@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI-driven+automation+engineer+building+production-grade+systems;Shipping+full-stack+solutions+with+TypeScript%2C+Python%2C+and+cloud+workflows;Saving+100%2B+hours+for+clients+through+automation+and+efficiency)](https://git.io/typing-svg)
 
-**AI Automation Specialist | Full-Stack Developer**
 
 ## Summary
 
