@@ -49,9 +49,9 @@ _Feb 2024 – Present | 10+ clients | Avg. 4.8 ★ rating_
 
 | Project                          | Description                                                                                          | Stack                                            | Repository                                                          |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------- |
-| **Jorh**                         | Production-grade URL shortener with 5 Node.js microservices, RabbitMQ messaging, and React dashboard | TypeScript, Node.js, Docker, RabbitMQ, Turborepo | [View →](https://github.com/subhan-f/Jorh)                          |
-| **SubhansPortfolio**             | Modern personal portfolio with interactive UI and smooth animations                                  | TypeScript, React, Vite, Tailwind CSS            | [View →](https://github.com/subhan-f/SubhansPortfolio)              |
-| **Video Motion Magnification**   | Eulerian video magnification and equipment failure prediction using CNN                              | Python, OpenCV, TensorFlow, NumPy                | [View →](https://github.com/subhan-f/FYP-RT-VidMag-Eulerian-Method) |
+| **Jorh**                         | Production-grade URL shortener with 5 Node.js microservices, RabbitMQ messaging, and React dashboard | TypeScript, Node.js, Docker, RabbitMQ, Turborepo | [View →](https://github.com/subhan-f/jorh)                          |
+| **Personal Portfolio**             | Modern personal portfolio with interactive UI and smooth animations                                  | TypeScript, React, Vite, Tailwind CSS            | [View →](https://github.com/subhan-f/personal-portfolio)              |
+| **Video Motion Magnification**   | Eulerian video magnification and equipment failure prediction using CNN                              | Python, OpenCV, TensorFlow, NumPy                | [View →](https://github.com/subhan-f/eulerian-video-magnification) |
 | **Multiple Diseases Prediction** | Machine learning model for healthcare diagnosis                                                      | Python, Scikit-learn, Pandas                     | [View →](https://github.com/subhan-f/multiple-diseases-prediction)  |
 
 ---
