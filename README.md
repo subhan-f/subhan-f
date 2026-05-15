@@ -17,8 +17,6 @@ Automation engineer and full-stack developer with **1.5+ years** of professional
 - **BS Computer Engineering** from COMSATS University Islamabad
 - Currently seeking remote opportunities in **automation engineering**, **backend development**, or **AI integration**
 
----
-
 ## 🎯 Featured Projects
 
 | Project                          | Description                                                                                          | Stack                                            | Repository                                                          |
