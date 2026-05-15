@@ -19,32 +19,6 @@ Automation engineer and full-stack developer with **1.5+ years** of professional
 
 ---
 
-## � Professional Experience
-
-### **Freelance AI Automation & Full-Stack Developer** | Fiverr (Level 2 Seller)
-
-_Feb 2024 – Present | 10+ clients | Avg. 4.8 ★ rating_
-
-**KidsKulturSpass** (Germany) | Web Development & Automation
-
-- Built end-to-end MERN dashboards and automated email workflows
-- Integrated HubSpot CRM, Google Calendar, Google Cloud, and Ionos Email
-- Eliminated manual processes through intelligent data synchronization
-
-**AllState Mapping** (USA) | Real-Estate Data Automation
-
-- Developed automation pipelines connecting Zillow, Monday.com, and HubSpot CRM
-- Processed property data ingestion for NY market with zero manual intervention
-- Enabled data flow between 4+ platforms with error handling and logging
-
-**Odd Jobs On Demand** (USA) | Work Order Management
-
-- Designed real-time dashboards for job tracking and performance metrics
-- Implemented voice AI agent reducing manual calls by 60%
-- Automated status management and operational workflows
-
----
-
 ## 🎯 Featured Projects
 
 | Project                          | Description                                                                                          | Stack                                            | Repository                                                          |
