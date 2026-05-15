@@ -9,13 +9,15 @@
 
 ---
 
-### About Me
+## About Me
 
 Automation engineer and full-stack developer with **1.5+ years** of professional experience building production-grade systems for international clients. Specialized in **AI-driven automation**, **microservices architecture**, and **seamless SaaS integrations**.
 
 - **Level 2 Seller** on Fiverr with 10+ clients and consistent 5-star reviews
 - **BS Computer Engineering** from COMSATS University Islamabad
 - Currently seeking remote opportunities in **automation engineering**, **backend development**, or **AI integration**
+
+---
 
 ## 🎯 Featured Projects
 
