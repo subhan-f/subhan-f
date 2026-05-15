@@ -89,11 +89,13 @@ AI-driven automation engineer and Full-Stack Developer with **1.5+ years** of pr
 ## 🤝 Let's Connect
 
 I'm always open to discussions about innovative automation solutions, full-stack development, and tech collaboration.
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBNSVQuIE1hZGUgYnkgTHVjaWRlIENvbnRyaWJ1dG9yczogaHR0cHM6Ly9sdWNpZGUuZGV2LyAtLT4KPHN2ZyAKICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgd2lkdGg9IjI1MCIKICBoZWlnaHQ9IjI1MCIKICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgZmlsbD0iI2ZmZmZmZiIKICBzdHJva2U9IiNmZmZmZmYiCiAgc3Ryb2tlLXdpZHRoPSIyIgogIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICBzdHJva2UtbGluZWpvaW49InJvdW5kIgo+CiAgPHBhdGggZD0iTTE2IDhhNiA2IDAgMDE2IDZ2N2gtNHYtN2EyIDIgMCAwMC0yLTIgMiAyIDAgMDAtMiAydjdoLTR2LTdhNiA2IDAgMDE2LTZ6IiAvPgogIDxyZWN0IHg9IjIiIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIiAvPgogIDxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIiAvPgo8L3N2Zz4=&logoColor=white)](https://linkedin.com/in/subhanf)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBMaWNlbnNlOiBNSVQuIE1hZGUgYnkgbWljaGFlbGFtcHI6IGh0dHBzOi8vZ2l0aHViLmNvbS9taWNoYWVsYW1wci9qYW0gLS0+CjxzdmcgZmlsbD0iI2ZmZmZmYiIgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2aWV3Qm94PSItMi41IC0yIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaW5ZTWluIiBjbGFzcz0iamFtIGphbS1maXZlcnIiPjxwYXRoIGQ9J00xNi4yNSAxNi4yNXYtMTBoLTEwdi0uNjI1YzAtMS4wMzQuODQxLTEuODc1IDEuODc1LTEuODc1SDEwVjBIOC4xMjVBNS42MzIgNS42MzIgMCAwIDAgMi41IDUuNjI1di42MjVIMFYxMGgyLjV2Ni4yNUgwVjIwaDguNzV2LTMuNzVoLTIuNVYxMGg2LjI4NXY2LjI1SDEwVjIwaDguNzV2LTMuNzVoLTIuNVonLz48Y2lyY2xlIGN4PScxNC4zNzUnIGN5PScxLjg3NScgcj0nMS44NzUnLz48L3N2Zz4=&logoColor=white)](https://fiverr.com/subhan_codes)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhanfarrakh5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subhanfarrakh.com)
+</div>
 
 ---
 
