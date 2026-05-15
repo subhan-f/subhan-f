@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:302b63,55:00bf8f,100:1cd8d2&text=Subhan%20%7C%20AI%20Automation%20Engineer&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Fiverr%20level%202%20Seller%20%7C%20Saved%20businesses%20100%2B%20hrs%2F%20week&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:302b63,55:00bf8f,100:1cd8d2&text=Subhan%20%7C%20AI%20Automation%20Engineer&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Fiverr%20level%202%20Seller%20%7C%20Saved%20businesses%20100%2B%20hrs%20weekly&descAlignY=60&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI-driven+automation+engineer+building+production-grade+systems;Shipping+full-stack+solutions+with+TypeScript%2C+Python%2C+and+cloud+workflows;Saving+100%2B+hours+for+clients+through+automation+and+efficiency)](https://git.io/typing-svg)
 
