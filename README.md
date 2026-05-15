@@ -53,7 +53,6 @@ Automation engineer and full-stack developer with **1.5+ years** of professional
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -74,7 +73,6 @@ Automation engineer and full-stack developer with **1.5+ years** of professional
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-09B3AF?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EB424B?style=for-the-badge&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
 ### Tools & Platforms
 
