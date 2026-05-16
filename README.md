@@ -80,8 +80,6 @@ I'm always open to discussions about innovative automation solutions, full-stack
 
 ![Profile Views](https://komarev.com/ghpvc/?username=subhan-f&color=blue&style=flat)
 
-**Built with ❤️ for excellence in engineering**
-
 </div>
 
 <div align="center">
